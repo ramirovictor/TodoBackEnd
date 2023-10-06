@@ -1,23 +1,15 @@
-# demoBackEnd
-Full Stack Web Application with Spring boot 2.x and Angular 11 technology by Udemy from instructor Valdir Cezar
+# demoBackEnd 🖥️
 
-It's a simple to-do list project
+Full Stack Web Application developed with Spring boot 2.x and Angular 11. This course was conducted on Udemy by instructor Valdir Cezar. It's a simple to-do list project.
 
+_Note: Code is in English._
 
-####code in English
+You can find the frontend application code [here](https://github.com/ramirovictor/todo).
 
-You can find the frontend application code at [TodoFront](https://github.com/ramirovictor/todo)
-
-
-## Technologies and Tools
-<table>
-  <tr> 
-    <td>Java 11</td>
-    <td>h2</td>
-    <td>Postgresql</td>
-    <td>Spring Boot</td>
-    <td>Restful</td>
-    <td>Maven</td>
-    <td>Lombok</td>
-  </tr>
-</table>
+## 💼 Technologies and Tools
+- **Java:** 11
+- **Database:** h2, Postgresql
+- **Framework:** Spring Boot
+- **API:** Restful
+- **Project Management:** Maven
+- **Utility:** Lombok
